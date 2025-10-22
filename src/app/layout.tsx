@@ -3,8 +3,8 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Next 15 Starter",
-  description: "A Next.js 15 project bootstrapped with TypeScript and Tailwind CSS."
+  title: "Next.js @latest Starter",
+  description: "A Next.js project bootstrapped with TypeScript and Tailwind CSS."
 };
 
 export default function RootLayout({
